@@ -1,4 +1,0 @@
-BeihangQA_test
-==============
-
-iCrowd
